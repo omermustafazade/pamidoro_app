@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113425200543",
+    "project_id": "pamidoro-app",
+    "storage_bucket": "pamidoro-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113425200543:android:5a8c2c9a151e979550b9aa",
+        "android_client_info": {
+          "package_name": "com.pamidoro.pamidoro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnn0cpd4B99sxTA7vhS55SHt9yP5IgPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
